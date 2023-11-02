@@ -1,10 +1,8 @@
-# Data Analyst
-### Education
-Applied Business Information Systems, BSc
+# Data Science and NLP 
+### Sentiment Analysis Research Project
 
-### Current Project
-#### Co-Author: Sentiment Analysis Research Project
-Code File: <a href="https://github.com/RaphRivers/portfolio/blob/main/Data%20Exploration%2C%20Collection%20and%20Preparation.ipynb">Beyond Just Stars: Unraveling the Interplay between review sentiments, and star-rating impact on business patronage.</a>
+### Title Beyond Just Stars: Unraveling the Interplay between review sentiments, and star-rating impact on business patronage.
+Stage 1: <a href="https://github.com/RaphRivers/portfolio/blob/main/Data%20Exploration%2C%20Collection%20and%20Preparation.ipynb"> Data Preparation and Exploration </a>
 
 #### Project Introduction
 This study aims to use computational methods to detect and classify the sentiments, experiences, and opinions of buyers. Examining how these factors influence check-ins and purchase decisions. It involves categorizing businesses patronage based on reviews (sentiments), and reviews star ratings to uncover the underlying emotions driving buyers decision-making and business patronage.
@@ -16,17 +14,17 @@ The rise of platforms like Yelp, TripAdvisor, and Google Reviews, to name a few,
 
 ### Research Objective
 The primary goal of this research is to conduct a comprehensive investigation into the impact of review sentiments and star ratings on business patronage. Through this investigation, we aim to shed light on the intricate relationship between online reviews and business outcomes. Specifically, we endeavor to unravel how sentiments expressed in reviews and the numerical representation of satisfaction through star ratings affect the decision-making processes of potential customers.
-Research Questions
 
-### This research will address the following key questions:
+### Questions
+This research will address the following key questions:
 
-#### How do review sentiments and star ratings influence potential customers' decision-making? 
+#### How do review sentiments and star ratings influence potential customer's decision-making? 
 - This question aims to delve into the persuasive power of sentiments and ratings in shaping the preferences and choices of consumers. It seeks to explore whether a well-articulated sentiment or a high star rating can sway a potential client towards patronizing a business.
 
 #### To what extent do online reviews affect business check-ins? 
 - This question delves into the practical outcomes of the reviews and ratings. It seeks to quantify the impact of online testimonials on the actual engagement of consumers with businesses, such as their physical visits or virtual interactions.
-Significance of the Study
 
+#### Significance of the Study
 The significance of this study is multifold. For businesses, understanding the dynamics of online reviews and star ratings is not merely a matter of curiosity; it is a matter of survival in an increasingly competitive marketplace. Positive reviews and high star ratings can enhance a business's reputation and attract more customers, while negative reviews can have adverse consequences. By gaining insights into the interplay between review sentiments and star ratings, businesses can refine their strategies, better meet consumer expectations, and foster loyalty.
 
 #### For consumers
