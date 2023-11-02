@@ -2,7 +2,7 @@
 ### Sentiment Analysis Research Project
 
 ### Title: Beyond Just Stars - Unraveling the Interplay between review sentiments, and star-rating impact on business patronage.
-Stage 1: <a href="https://github.com/RaphRivers/portfolio/blob/main/Data%20Exploration%2C%20Collection%20and%20Preparation.ipynb"> Data Preparation and Exploration </a>
+Stage 1: <a href="https://github.com/RaphRivers/portfolio/blob/main/.ipynb_checkpoints/Data%20Exploration%2C%20Collection%20and%20Preparation-checkpoint.ipynb"> Data Preparation and Exploration </a>
 
 #### Project Introduction
 This study aims to use computational methods to detect and classify the sentiments, experiences, and opinions of buyers. Examining how these factors influence check-ins and purchase decisions. It involves categorizing businesses patronage based on reviews (sentiments), and reviews star ratings to uncover the underlying emotions driving buyers decision-making and business patronage.
