@@ -1,7 +1,7 @@
 # Data Science and NLP 
 ### Sentiment Analysis Research Project
 
-### Title Beyond Just Stars: Unraveling the Interplay between review sentiments, and star-rating impact on business patronage.
+### Title: Beyond Just Stars - Unraveling the Interplay between review sentiments, and star-rating impact on business patronage.
 Stage 1: <a href="https://github.com/RaphRivers/portfolio/blob/main/Data%20Exploration%2C%20Collection%20and%20Preparation.ipynb"> Data Preparation and Exploration </a>
 
 #### Project Introduction
