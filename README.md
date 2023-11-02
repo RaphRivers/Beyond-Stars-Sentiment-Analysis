@@ -2,10 +2,10 @@
 ### Sentiment Analysis Research Project
 
 ### Title: Beyond Just Stars - Unraveling the Interplay between review sentiments, and star-rating impact on business patronage.
-Stage 1: <a href="https://github.com/RaphRivers/portfolio/blob/main/.ipynb_checkpoints/Data%20Exploration%2C%20Collection%20and%20Preparation-checkpoint.ipynb"> Data Preparation and Exploration </a>
+Stage 1: <a href="https://github.com/RaphRivers/portfolio/blob/dfdcbc1b124a6255d4b10bf5965ef8f4e209a7af/.ipynb_checkpoints/Data%20Exploration%2C%20Collection%20and%20Preparation-checkpoint.ipynb"> Data Preparation and Exploration </a>
 
 #### Project Introduction
-This study aims to use computational methods to detect and classify the sentiments, experiences, and opinions of buyers. Examining how these factors influence check-ins and purchase decisions. It involves categorizing businesses patronage based on reviews (sentiments), and reviews star ratings to uncover the underlying emotions driving buyers decision-making and business patronage.
+This study aims to use computational methods to detect and classify the sentiments, experiences, and opinions of buyers. Examining how these factors influence check-ins and purchase decisions. It involves categorizing business's patronage based on reviews (sentiments), and reviews star ratings to uncover the underlying emotions driving buyers decision-making and business patronage.
 
 #### Background and Context
 In the contemporary digital landscape, the proliferation of online platforms has revolutionized the way consumers evaluate and engage with businesses. A prominent facet of this transformation lies in the realm of online reviews and star ratings. The importance of these digital testimonials is undeniably paramount, as they serve as a bridge of communication between consumers and businesses in the virtual sphere. Online reviews and star ratings are not mere textual expressions and numeric summaries; they encapsulate the collective voices of the consumer base, thereby influencing the decisions and behaviors of prospective clients. This research embarks on an exploration of the multifaceted relationship between review sentiments, star ratings, and their collective impact on business patronage.
