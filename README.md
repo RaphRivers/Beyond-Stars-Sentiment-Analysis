@@ -1,5 +1,5 @@
 # Beyond Stars
-### Sentiment Analysis Research Project
+### Affective States and Subjective Information Opinion Mining 
 
 ### Title: Beyond Just Stars - Unraveling the Interplay between review sentiments, and star-rating impact on business patronage.
 Stage 1: <a href="https://github.com/RaphRivers/portfolio/blob/dfdcbc1b124a6255d4b10bf5965ef8f4e209a7af/.ipynb_checkpoints/Data%20Exploration%2C%20Collection%20and%20Preparation-checkpoint.ipynb"> Data Preparation and Exploration </a>
