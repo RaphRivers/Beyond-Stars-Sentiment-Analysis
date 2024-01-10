@@ -1,4 +1,4 @@
-# Data Science and NLP 
+# Beyond Stars
 ### Sentiment Analysis Research Project
 
 ### Title: Beyond Just Stars - Unraveling the Interplay between review sentiments, and star-rating impact on business patronage.
