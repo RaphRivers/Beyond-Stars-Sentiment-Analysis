@@ -21,7 +21,7 @@ This research will address the following key questions:
 #### How do review sentiments and star ratings influence potential customer's decision-making? 
 - This question aims to delve into the persuasive power of sentiments and ratings in shaping the preferences and choices of consumers. It seeks to explore whether a well-articulated sentiment or a high star rating can sway a potential client towards patronizing a business.
 
-#### To what extent do online reviews affect business check-ins? 
+#### To what extent do online reviews impact business check-ins? 
 - This question delves into the practical outcomes of the reviews and ratings. It seeks to quantify the impact of online testimonials on the actual engagement of consumers with businesses, such as their physical visits or virtual interactions.
 
 #### Significance of the Study
